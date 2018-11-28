@@ -5,8 +5,8 @@ spring:
   rabbitmq:
     host: mq.tgcloud.net
     port: 5672
-    username: admin
-    password: admin
+    username: guest
+    password: guest
   redis:
     host: redis.tgcloud.net
     port: 6379
